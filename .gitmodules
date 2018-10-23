@@ -1,0 +1,3 @@
+[submodule "javaslicer"]
+	path = javaslicer
+	url = https://github.com/hammacher/javaslicer
